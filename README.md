@@ -4,7 +4,7 @@
 ## 使用
 
 ```bash
-const { getProfileUrl} = require('fetch-profile-url')
+const { getProfileUrl} = require('fetch-profileurl')
 const ctx =  {
   uri: 'https://www.bilibili.com/opus/975133575406944258',
   uri_host: 'www.bilibili.com',
